@@ -6,6 +6,8 @@
 ![](https://streak-stats.demolab.com?user=Zohrehakb&theme=aura-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zohrehakb&layout=compact&theme=aura_dark&count_private=true&include_all_commits=true&langs_count=8)
 
+![Electrical Engineer](https://img.shields.io/badge/Electrical%20Engineer-FFC107?style=for-the-badge&logo=zap&logoColor=black)
+![Backend Developer](https://img.shields.io/badge/Backend%20Developer-2196F3?style=for-the-badge&logo=server&logoColor=white)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Zohrehakb&theme=radical&no-frame=true&no-bg=true&margin-w=4)
