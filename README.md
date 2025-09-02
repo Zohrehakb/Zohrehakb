@@ -5,7 +5,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Zohrehakb&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com?user=Zohrehakb&theme=aura-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zohrehakb&layout=compact&theme=aura_dark&count_private=true&include_all_commits=true&langs_count=8)
-# about me
+# About Me
 ![Electrical Engineer](https://img.shields.io/badge/Electrical%20Engineer-FFC107?style=for-the-badge&logo=zap&logoColor=black)
 ![Backend Developer](https://img.shields.io/badge/Backend%20Developer-2196F3?style=for-the-badge&logo=server&logoColor=white)
 
